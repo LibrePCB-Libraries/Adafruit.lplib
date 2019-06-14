@@ -3,7 +3,8 @@
 ## Description
 
 This is a [LibrePCB](https://librepcb.org) library!
-Just edit this file to add a description about it.
+
+This library contains breakout boards from Adafruit.
 
 ## License
 
