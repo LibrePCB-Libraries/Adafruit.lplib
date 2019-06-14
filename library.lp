@@ -1,0 +1,10 @@
+(librepcb_library 0120d71f-d2f7-4e52-8a11-80ada981ad5f
+ (name "Adafruit")
+ (description "Adafruit breakout boards (inofficial).")
+ (keywords "adafruit")
+ (author "Marc Wittwer")
+ (version "0.1")
+ (created 2019-06-13T08:43:28Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Adafruit.lplib")
+)
