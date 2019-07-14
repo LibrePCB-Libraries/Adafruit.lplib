@@ -1,0 +1,10 @@
+(librepcb_package_category 84eb75df-2d30-4f79-a2b0-6eb9e885171a
+ (name "Adafruit")
+ (description "Adafruit breakout boards.")
+ (keywords "adafruit,breakout")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2019-07-03T13:16:11Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
