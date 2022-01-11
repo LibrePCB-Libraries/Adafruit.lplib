@@ -101,7 +101,7 @@
    (vertex (position 0.44 -1.07) (angle 0.0))
   )
   (polygon 2e97628b-dfd8-4f82-9b7f-d6447eb97617 (layer top_placement)
-   (width 0.25) (fill false) (grab_area false)
+   (width 0.2) (fill false) (grab_area false)
    (vertex (position -3.03 3.195) (angle 0.0))
    (vertex (position 2.68 3.195) (angle 0.0))
   )
