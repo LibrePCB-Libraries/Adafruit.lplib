@@ -1,9 +1,9 @@
 (librepcb_device e6b31596-3f12-465b-bc58-96c49b91aa9c
  (name "Adafruit VEML7700 Breakout")
- (description "Ambient I²C Light Sensor. Breakout board comes with a level shifter.\n\nhttps://www.adafruit.com/product/4162")
+ (description "Ambient I²C Light Sensor. Breakout board comes with a level shifter.\n\nNote that this is the old revision. In 2022, a new revision with different form factor was released. However, it is still electrically compatible.\n\nhttps://www.adafruit.com/product/4162")
  (keywords "veml7700,adafruit,breakout,level shifter,ambient light,light,sensor")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.1.1")
  (created 2020-08-17T21:06:05Z)
  (deprecated false)
  (category 982705c8-9e88-4dab-89eb-fcea58afbeae)
