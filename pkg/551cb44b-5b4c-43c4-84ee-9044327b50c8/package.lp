@@ -1,5 +1,5 @@
 (librepcb_package 551cb44b-5b4c-43c4-84ee-9044327b50c8
- (name "Adafruit TCA9548A Breakout")
+ (name "ADAFRUIT_TCA9548A_BREAKOUT")
  (description "Low-Voltage 8-Channel I2C Switch with Reset breakout board.")
  (keywords "i2c,mux,multiplexer,adafruit,breakout")
  (author "Marc Wittwer")
