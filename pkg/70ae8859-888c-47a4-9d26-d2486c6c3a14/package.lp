@@ -3,7 +3,7 @@
  (description "1.27mm pitch miniature 10-pin box header, commonly used as SWD debug connector.\n\nProduct ID: 4048")
  (keywords "swd,cortex-m,4048,1.27mm,idc")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2022-01-09T21:48:23Z)
  (deprecated false)
  (generated_by "")

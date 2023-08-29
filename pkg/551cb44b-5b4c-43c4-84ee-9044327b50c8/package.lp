@@ -3,7 +3,7 @@
  (description "Low-Voltage 8-Channel I2C Switch with Reset breakout board.")
  (keywords "i2c,mux,multiplexer,adafruit,breakout")
  (author "Marc Wittwer")
- (version "0.1")
+ (version "0.2")
  (created 2019-06-11T12:04:24Z)
  (deprecated false)
  (generated_by "")
