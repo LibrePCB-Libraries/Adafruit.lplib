@@ -77,7 +77,7 @@
  (signal 0b95cd2d-b3fd-4414-bb5f-bcd1efd72023 (name "SC2") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal 07f53edf-0f17-44d3-87c9-3cef699c1db4 (name "NRESET") (role passive)
+ (signal 07f53edf-0f17-44d3-87c9-3cef699c1db4 (name "!RESET") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal fd1d1346-4d83-416a-a603-08efd80b34b6 (name "SD6") (role passive)
