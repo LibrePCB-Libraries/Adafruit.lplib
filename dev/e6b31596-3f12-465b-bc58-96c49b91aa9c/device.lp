@@ -15,4 +15,6 @@
  (pad a5e8bccc-77c0-4ea4-89f0-b2a4601d32ed (signal 706f7c71-4a8e-4969-a686-2f0a726769d9))
  (pad d5646bc0-6a48-440b-a7e9-4623146628bf (signal 74eaa36b-eae0-4070-a84f-8beefd60a813))
  (pad e2f7d0d6-b3c7-4512-8a52-5dd9e8222f62 (signal af36275f-c1df-45b7-9fee-678c81e3937e))
+ (part "4162" (manufacturer "Adafruit")
+ )
 )
