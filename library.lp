@@ -3,7 +3,7 @@
  (description "Adafruit products (unofficial).")
  (keywords "adafruit")
  (author "LibrePCB")
- (version "0.2")
+ (version "0.2.1")
  (created 2019-06-13T08:43:28Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Adafruit.lplib")
