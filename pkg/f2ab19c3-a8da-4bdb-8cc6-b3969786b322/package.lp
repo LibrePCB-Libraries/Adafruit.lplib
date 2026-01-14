@@ -3,7 +3,7 @@
  (description "Ambient I²C Light Sensor. Breakout board comes with a level shifter.\n\nNote that this is the old revision. In 2022, a new revision with different form factor was released. However, it is still electrically compatible.\n\nhttps://www.adafruit.com/product/4162")
  (keywords "veml7700,adafruit,breakout,level shifter,ambient light,light,sensor")
  (author "Danilo Bargen")
- (version "0.3")
+ (version "0.3.1")
  (created 2020-08-17T20:35:20Z)
  (deprecated false)
  (generated_by "")
@@ -234,6 +234,7 @@
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_footprint_3d_model
   (footprint 431781e9-9807-4700-8a0e-0047a0547aa1)
  )
